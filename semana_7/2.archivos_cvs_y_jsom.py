@@ -66,3 +66,4 @@ with open('tareas.csv','w',newline="",encoding="utf-8") as f:
 
 with open("tareas.csv", "r", encoding="utf-8") as f:
   print(f.read())
+  
